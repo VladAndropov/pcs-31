@@ -1,8 +1,9 @@
  
 результаты практики Группы ПКС-31
 ========================
-[отчет Дёмин (отчет сгенерирован автоматически)]( https://github.com/VladAndropov/pcs-31/blob/master/Demin.ipynb "Демин")
+Дёмин 
+Комов  
+Орлова
 
-[отчет Комов (отчет сгенерирован автоматически)]( https://github.com/VladAndropov/pcs-31/blob/master/Komov.ipynb "Комов") 
-
- [отчет Орлова (отчет сгенерирован автоматически)]( https://github.com/VladAndropov/pcs-31/blob/master/Orlova.ipynb "Орлова") 
+week1 - первая неделя
+sdo - задача о СДО
