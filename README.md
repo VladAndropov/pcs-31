@@ -1,8 +1,14 @@
  
-результаты практики Группы ПКС-31
+файлы для отчета 
+
+результаты практики Группы ПКС-31 
 ========================
-[отчет Дёмин (отчет сгенерирован автоматически)]( https://github.com/VladAndropov/pcs-31/blob/master/Demin.ipynb "Демин")
+Студенты: Дёмин Комов  Орлова
 
-[отчет Комов (отчет сгенерирован автоматически)]( https://github.com/VladAndropov/pcs-31/blob/master/Komov.ipynb "Комов") 
+ipython- работа co scipy stack
 
- [отчет Орлова (отчет сгенерирован автоматически)]( https://github.com/VladAndropov/pcs-31/blob/master/Orlova.ipynb "Орлова") 
+sdo - решение "задачи о СДО"
+
+Courses - создание курса группой
+
+Data - BigData из СДО ЕГУ Бунина
