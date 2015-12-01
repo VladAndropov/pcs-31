@@ -1,8 +1,10 @@
  
-результаты практики Группы ПКС-31
+результаты практики Группы ПКС-31 
+
+тетрадки в папках
 ========================
-[отчет Дёмин (отчет сгенерирован автоматически)]( https://github.com/VladAndropov/pcs-31/blob/master/Demin.ipynb "Демин")
+Дёмин Комов  Орлова
 
-[отчет Комов (отчет сгенерирован автоматически)]( https://github.com/VladAndropov/pcs-31/blob/master/Komov.ipynb "Комов") 
+ipython- первая неделя знакомство co scipy stack
 
- [отчет Орлова (отчет сгенерирован автоматически)]( https://github.com/VladAndropov/pcs-31/blob/master/Orlova.ipynb "Орлова") 
+sdo - задача о СДО
