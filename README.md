@@ -38,7 +38,9 @@
 -  
  проектирование курсов° [ (ProfiDO->edRuX)](http://edrux.ru:18010/)
 
- преподавание курсов ° [(ProfiDO->4portfolio)](http://4portfolio.ru/)
+ преподавание курсов ° [(ProfiDO)](http://profido.org/)
+ 
+ отчет о методической работе ° [(ProfiDO->4portfolio)](http://4portfolio.ru/)
    				  
 
 ----------
