@@ -45,10 +45,17 @@
 
 ----------
 
-III-IV семестры: аналитик
+III семестр: программист скриптов с API СДО
+-  
+bootstrap(js), Yii(php), Unity(c#), django(python)  ° ([xAPI](https://github.com/elsuru?utf8=%E2%9C%93&query=xapi))
+                                      
+
+----------
+
+IV семестр: аналитик
 -  
 алгоритмы машинного обучения ° ([IPython + scipy_stack](https://github.com/VladAndropov/practics/tree/master/insights))
-                                      
+
 
 V семестр: программист
 - 
