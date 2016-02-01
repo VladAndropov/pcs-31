@@ -62,8 +62,8 @@ V семестр: программист
 совместная работа в фреймворке ° ([github->django->lms](https://github.com/VladAndropov/lms))
                                      
 
-VI семестр: девелопер в проект «robots» 
+VI семестр: девелопер в проект «androbot» 
 - 
-совместная работа над проектом°([github->robots](https://github.com/elsuru))
+совместная работа над проектом°([github->androbot](https://github.com/elsuru))
 
                                                     
