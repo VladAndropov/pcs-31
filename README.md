@@ -1,5 +1,5 @@
 
-#  Методика подготовки специалистов для дистанционного обучения студентов 
+#  Методика подготовки будущих учителей для дистанционного обучения студентов 
 > Руководитель: Андропов В.В.
 
 
@@ -10,23 +10,15 @@
 
 ----------
 
- I семестр: администратор CMS
--  
-с временным доступом к локальным серверам вуза °
+ I семестр: администратор LMS - системы управления учебными объектами
 
-Комов Евгений - [соц.сеть студентов ЕГУ](http://sdo.elsu.ru/komov)° (закрыт)
 
- Демин Александр – [блог студента ЕГУ°](http://sdo.elsu.ru/demin) (закрыт)
+[LMS “moodle” СДО ЕГУ°](http://sdoelsu.ru)
 
- Невзгодин Виктор -[LMS “moodle” СДО ЕГУ°](http://vu.elsu.ru/moodle) (закрыт)
+[LMS “taxonomy” ЕГУ°](http://sdo.elsu.ru/vu) 
 
-Пачина Н.Н, Кузовлева Н.В. - [ePS Портфолио ЕГУ°](http://vu.elsu.ru/mah)(закрыт) 
+[LMS “edX” ЕГУ°](http://sdo.elsu.ru/edx) 
 
-Пачина Н.Н, Андропов В.В – [Акме-сеть ЕГУ°](http://vu.elsu.ru/index.php?option=com_community&view=frontpage&Itemid=573) (закрыт)
-
-Андропов В.В, Щербатых С.В. – [LMS “taxonomy” База методик ЕГУ°](http://sdo.elsu.ru/index.php) (закрыт)
-
-Трегубов А.Б.  – [сервер ЕГУ°](http://vu.elsu.ru/index.php?option=com_content&view=category&layout=blog&id=82&Itemid=538)(закрыт)
 
 
  
@@ -36,34 +28,32 @@
 
  II семестр: методист
 -  
- проектирование курсов° [ (ProfiDO->edRuX)](http://edrux.ru:18010/)
+ проектирование текстово - графического материала курсов°
 
- преподавание курсов ° [(ProfiDO)](http://profido.org/)
  
- отчет о методической работе ° [(ProfiDO->4portfolio)](http://4portfolio.ru/)
    				  
 
 ----------
 
-III семестр: программист скриптов с API СДО
+III семестр: программист тренажеров с хAPI
 -  
 bootstrap(js), Yii(php), Unity(c#), django(python)  ° ([xAPI](https://github.com/elsuru?utf8=%E2%9C%93&query=xapi))
                                       
 
 ----------
 
-IV семестр: аналитик
+IV семестр: аналитик результатов обучения
 -  
 алгоритмы машинного обучения ° ([IPython + scipy_stack](https://github.com/VladAndropov/practics/tree/master/insights))
 
 
-V семестр: программист
+V семестр: программист модулей для СДО (python)
 - 
 совместная работа в фреймворке ° ([github->django->lms](https://github.com/VladAndropov/lms))
                                      
 
-VI семестр: девелопер в проект «androbot» 
+VI семестр: создание бота «искусственный интеллект - ассистент преподавателя» для чтения и проверки результатов обучения в СДО 
 - 
-совместная работа над проектом°([github->androbot](https://github.com/elsuru))
+совместная работа над проектом бота°([github->androbot](https://github.com/elsuru))
 
                                                     
