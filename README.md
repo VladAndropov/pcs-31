@@ -15,7 +15,7 @@
 
 [LMS “moodle” СДО ЕГУ°](http://sdoelsu.ru)
 
-[LMS “taxonomy” ЕГУ°](http://sdo.elsu.ru/vu) 
+[LMS “система управления учебными объектами” ЕГУ°](http://sdo.elsu.ru/vu) 
 
 [LMS “edX” ЕГУ°](http://sdo.elsu.ru/edx) 
 
@@ -51,6 +51,6 @@ V семестр: программист модулей для СДО (python)
 
 VI семестр: создание бота «искусственный интеллект - ассистент преподавателя» для чтения и проверки результатов обучения в СДО 
 - 
-совместная работа над проектом бота°([github->androbot](https://github.com/elsuru))
+совместная работа над проектом бота°([github->androbot](https://github.com/ELSUru/Program-O))
 
                                                     
