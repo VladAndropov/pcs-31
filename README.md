@@ -15,7 +15,7 @@
 
 [LMS “система управления учебными объектами” ЕГУ°](http://sdo.elsu.ru/vu) 
 
-[LMS “edX” доступ из локальной сети 12 корпуса ЕГУ°](http://10.4.4.200) 
+[LMS “edX” (доступна из локальной сети 12 корпуса ЕГУ)°](http://10.4.4.200) 
 
 
 ----------
@@ -24,7 +24,7 @@
  II семестр: методист
 -  
  проектирование текстово - графического материала курсов°
-
+(работа в AutoringTools в спецификациях SCORM и xAPI)
  
    				  
 
@@ -32,17 +32,17 @@
 
 III семестр: программист тренажеров с хAPI
 -  
-bootstrap(js), Yii(php), Unity(c#), django(python)  ° ([xAPI](https://github.com/elsuru?utf8=%E2%9C%93&query=xapi))
+Программирование в фреймворках: bootstrap(js), Yii(php), Unity(c#), django(python)  ° ([xAPI](https://github.com/elsuru?utf8=%E2%9C%93&query=xapi))
                                       
 
 ----------
 
 IV семестр: аналитик результатов обучения
 -  
-алгоритмы машинного обучения ° ([IPython + scipy_stack](https://github.com/VladAndropov/practics/tree/master/insights))
+алгоритмы машинного обучения и работа с прикладным ПО ° ([IPython + scipy_stack](https://github.com/VladAndropov/practics/tree/master/insights))
 
 
-V семестр: программист модулей для СДО (python)
+V семестр: программист плагинов (учебных объектов) для СДО (python)
 - 
 совместная работа в фреймворке ° ([github->django->lms](https://github.com/VladAndropov/lms))
                                      
